@@ -1,4 +1,4 @@
-# ihtisham
+# Hadith Project
 
 > My sublime Nuxt.js project
 
